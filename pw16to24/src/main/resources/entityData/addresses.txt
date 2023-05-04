@@ -1,0 +1,4 @@
+Address text = Tula, zip code = 2324, building id = 203
+Address text = Moscow, zip code = 3783, building id = 204
+Address text = Moscow, zip code = 8734, building id = 204
+Address text = Mozhaysk, zip code = 6481, building id = 202

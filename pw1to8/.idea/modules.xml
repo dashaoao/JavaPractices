@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/pw6/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/src/pw6/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/pw6/Builder/Builder.iml" filepath="$PROJECT_DIR$/src/pw6/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/pw6/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/src/pw6/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/pw6/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/src/pw6/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pw1to8.iml" filepath="$PROJECT_DIR$/pw1to8.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+Creation date = 24.05.2007, type = cottage
+Creation date = 27.11.2012, type = house
+Creation date = 31.01.2020, type = apartment
+Creation date = 27.11.1903, type = house
